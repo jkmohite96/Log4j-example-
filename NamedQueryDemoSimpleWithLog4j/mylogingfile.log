@@ -1,0 +1,34 @@
+this is info level
+this is warn level
+HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+HHH000412: Hibernate Core {4.3.11.Final}
+HHH000206: hibernate.properties not found
+HHH000021: Bytecode provider name : javassist
+HHH000043: Configuring from resource: /hibernate.cfg.xml
+HHH000040: Configuration resource: /hibernate.cfg.xml
+HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+HHH000041: Configured SessionFactory: null
+HHH000402: Using Hibernate built-in connection pool (not for production use!)
+HHH000401: using driver [org.hsqldb.jdbcDriver] at URL [jdbc:hsqldb:hsql://localhost/]
+HHH000046: Connection properties: {user=sa, password=****}
+HHH000006: Autocommit mode: false
+HHH000115: Hibernate connection pool size: 1 (min=1)
+HHH000400: Using dialect: org.hibernate.dialect.HSQLDialect
+HHH000399: Using default transaction strategy (direct JDBC transactions)
+HHH000397: Using ASTQueryTranslatorFactory
+HHH000228: Running hbm2ddl schema update
+HHH000102: Fetching database metadata
+HHH000396: Updating schema
+HHH000261: Table found: PUBLIC.PUBLIC.EMPLOYEE_HQL
+HHH000037: Columns: [empid, fname, lname, salary]
+HHH000108: Foreign keys: []
+HHH000126: Indexes: [sys_idx_sys_pk_10194_10195]
+HHH000261: Table found: PUBLIC.PUBLIC.HIBERNATE_SEQUENCES
+HHH000037: Columns: [sequence_next_hi_value, sequence_name]
+HHH000108: Foreign keys: []
+HHH000126: Indexes: []
+HHH000232: Schema update complete
+this is fatal level
+this is error level
+this is fatal level
+this is error level
