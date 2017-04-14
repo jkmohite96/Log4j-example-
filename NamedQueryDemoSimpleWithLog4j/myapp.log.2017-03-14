@@ -1,0 +1,4 @@
+[FATAL] 2017-03-14 17:15:34,270 com.namedquerydemo.TestManageEmployee main - this is fatal level
+[ERROR] 2017-03-14 17:15:34,484 com.namedquerydemo.TestManageEmployee main - this is error level
+[FATAL] 2017-03-14 18:17:24,937 com.namedquerydemo.TestManageEmployee main - this is fatal level
+[ERROR] 2017-03-14 18:17:25,540 com.namedquerydemo.TestManageEmployee main - this is error level
