@@ -10,7 +10,7 @@ import org.hibernate.annotations.CacheConcurrencyStrategy;
 			name = Employee.SHOW_ALL_EMPLOYEES,
 			query = Employee.SHOW_ALL_EMPLOYEES_QUERY)
 })
-
+jfjjhgk
 
 @Entity
 @Table(name = "EMPLOYEE_HQL")
